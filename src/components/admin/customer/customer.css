@@ -1,0 +1,98 @@
+.leads{
+    align-items: center;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    display: flex;
+    padding-top: 10px;
+    gap: 8px;
+    color: white;
+}
+
+.leadstext{
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.leadspage{
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    background: #2c3034;
+}
+
+.searchbox{
+    gap: 10px;
+    display: flex;
+}
+
+.inputbox{
+    width: 282px;
+}
+
+.searchinput{
+    width: 100%;
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid lightgrey;
+    font-size: 12px;
+}
+
+.addnew{
+    color: white;
+    font-size: 12px;
+    padding: 10px 15px;
+    background: #ffc045;
+    width: 100px;
+    border-radius: 5px;
+    padding: 7px 15px;
+    font-weight: 700;
+}
+
+.header{
+    border-top: 1px solid lightgrey;
+}
+
+table{
+    text-align: left;
+    font-size: 12px;
+    overflow: auto;
+    background-color: #2d3838;
+    width: 100%;
+}
+
+.userteblebox{
+    background: #2d3838;
+}
+
+td,tr{
+    background: #2d3838;
+}
+
+
+.leadid{
+    color: red;
+    font-weight: 600;
+    background-color: rgb(41, 67, 90);
+}
+
+.location{
+    font-weight: 500;
+}
+
+.icons{
+    font-size: 15px;
+    display: flex;
+    gap: 17px;
+    cursor: pointer;
+}
+
+.leadstext{
+    font-weight: 700;
+}
+
+input[type=checkbox] {
+    accent-color: red;
+  }

@@ -1,0 +1,30 @@
+.navBarbox{
+    background-color: black;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbarContent{
+ display: flex;
+ gap: 20px;
+}
+
+.navItem{
+    color: white;
+    font-size: 13px;
+}
+
+.heading{
+   color: white;
+   font-weight: 700;
+}
+
+.navItem:hover{
+    color:#ffc107;
+    cursor: pointer;
+}
+
+
+

@@ -1,0 +1,161 @@
+.sidepanel{
+    float: left;
+    height: 165vh;
+    width: 15%;
+    border: 1px solid;
+    background: #e01616;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.page{
+    box-sizing: border-box;
+    /* border: 1px solid; */
+    width: 85%;
+    float: left;
+    height: 100vh;
+}
+
+.logo{
+    width: 110px;
+}
+
+.logo_image{
+    display: flex;
+    justify-content: center;
+}
+
+.section-2{
+    border-bottom: 1px solid #cebfbf;
+    border-top: 1px solid #cebfbf;
+    color: white;
+    padding: 12px;
+    gap: 8px;
+    display: flex;
+}
+
+.userphoto{
+    border-radius: 50px;
+    background: #ff7676;
+    width: 25px;
+    height: 25px;
+}
+
+.username{
+    font-size: 12px;
+    text-align: left;
+    font-family: auto;
+}
+
+.section-3{
+    /* border-bottom: 1px solid #f2eaea; */
+    /* border-top: 1px solid #f2eaea; */
+    color: white;
+    padding: 12px;
+    gap: 8px;
+    display: flex;
+}
+
+.dashboard{
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: left;
+    font-size: 12px;
+    color: #f2eaea;
+}
+
+.leads{
+    align-items: center;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    display: flex;
+    padding-top: 10px;
+    gap: 8px;
+    color: white;
+}
+
+.leadstext{
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.maindashboard{
+    padding-top: 12px;
+}
+.trucaller{
+    color: #f2eaea;
+    font-size: 10px;
+}
+
+.container{
+    padding: 15px;
+}
+
+.leadspage{
+    padding: 30px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.searchbox{
+    gap: 10px;
+    display: flex;
+}
+
+.inputbox{
+    width: 282px;
+}
+
+.searchinput{
+    width: 100%;
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid lightgrey;
+    font-size: 12px;
+}
+
+.addnew{
+    color: white;
+    font-size: 12px;
+    padding: 10px 15px;
+    background: red;
+    border-radius: 5px;
+    padding: 7px 15px;
+}
+
+.header{
+    border-top: 1px solid lightgrey;
+}
+
+table{
+    text-align: left;
+    font-size: 12px;
+}
+
+.leadid{
+    color: red;
+    font-weight: 600;
+}
+
+.location{
+    font-weight: 500;
+}
+
+.icons{
+    font-size: 15px;
+    display: flex;
+    gap: 17px;
+    cursor: pointer;
+}
+
+.leadstext{
+    font-weight: 700;
+}
+
+input[type=checkbox] {
+    accent-color: red;
+  }
+
+

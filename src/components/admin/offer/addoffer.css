@@ -1,0 +1,88 @@
+.userinput{
+    border-radius: 5px;
+    padding: 5px;
+    width: 90%;
+    color: black;
+}
+
+.inputbox{
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+    width: 475px;
+    padding-bottom: 15px;
+
+}
+
+.customerAddbox{
+    color: white;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 5px;
+    background: #2d3838;
+   
+}
+
+.labeltext{
+    text-align: left;
+    width: 90%;
+
+}
+
+.maininputbox{
+    padding: 10px;
+}
+
+.mainheading{
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    border: 1px solid;
+}
+
+.buttonbox{
+    align-items:center;
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    padding-bottom: 15px;
+
+}
+
+.buttoninnerbox{
+    padding-top: 15px;
+    /* padding-bottom: 15px; */
+    gap: 10px;
+    display: flex;
+    /* background: aliceblue; */
+    width: 90%;
+}
+
+.imagebox{
+    border: 1px solid; 
+    display: "flex";
+     height: 100px;
+    width: 120px;
+}
+
+.submitbutton{
+    width: 100px;
+}
+
+.buttonbox{
+    color: black;
+    background-color: #ffc045;
+    border-radius: 5px;
+    justify-content: center;
+    /* text-align: center; */
+    display: flex;
+    padding: 5px;
+   
+}
+.labeltextsubmit{
+    color: black;
+    font-size: 12px;
+    /* padding: 5px; */
+}
+
